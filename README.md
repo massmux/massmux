@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys 👋
 
 
 - 🔭 I’m currently working on https://BitcoinVoucherBot a telegram automated bot for purchasing bitcoin redeemable vouchers.
