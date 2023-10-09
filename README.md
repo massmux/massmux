@@ -16,11 +16,10 @@ _Bitcoin Lightning Network & Nostr_
 - 🌏 Bookme: [https://cal.com/massmux](https://cal.com/massmux)
 
 
-## Projects
+## Main current Projects
 
 - [@BitcoinVoucherBot](https://t.me/BitcoinVoucherBot)
-- [@BreezerBot](https://t.me/BreezerBot)
+- [@BreezerBot](https://t.me/BreezerBot) [Repo](https://github.com/massmux/BreezerBot)
 - [@SatsMobiBot](https://t.me/SatsMobiBot) and NFC Lightning Cards
-- Contributor for documenting [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot)
-
+- Contributor to [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) documentation
 
