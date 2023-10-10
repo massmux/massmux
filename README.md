@@ -8,7 +8,7 @@ _Bitcoin Lightning Network & Nostr_
 - 🌏 Nostr: [npub1sej07d37lnfk592wlh9uv2dy68jv2y0ez98p6dw7w0llx89hswesvs5fqm](https://nosta.me/npub1sej07d37lnfk592wlh9uv2dy68jv2y0ez98p6dw7w0llx89hswesvs5fqm)
 - ✒️ Blog: [https://massmux.com](https://massmux.com)
 - ✒️ Substack Newsletter: [https://massmux.org](https://massmux.org)
-- 📺 twitch: [https://www.twitch.tv/massimomusumeci](https://www.twitch.tv/massimomusumeci)
+- 📺 Twitch: [https://www.twitch.tv/massimomusumeci](https://www.twitch.tv/massimomusumeci)
 - 📺 Youtube: [https://youtube.com/@MassimoMusumeci](https://youtube.com/@MassimoMusumeci)
 - ☁️ Email: pls do not email me
 - 🌏 Donation page: [https://www.massmux.com/donations/](https://www.massmux.com/donations/)
@@ -18,8 +18,8 @@ _Bitcoin Lightning Network & Nostr_
 
 ## Main current Projects
 
-- [@BitcoinVoucherBot](https://t.me/BitcoinVoucherBot)
-- [@BreezerBot](https://t.me/BreezerBot) [Repo](https://github.com/massmux/BreezerBot)
-- [@SatsMobiBot](https://t.me/SatsMobiBot) and NFC Lightning Cards
-- Contributor to [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) documentation
+- [@BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) Bitcoin services Marketplace
+- [@BreezerBot](https://t.me/BreezerBot) [Breez SDK implementation](https://github.com/massmux/BreezerBot)
+- [@SatsMobiBot](https://t.me/SatsMobiBot) and NFC Lightning Cards and Rings
+- Contributor to [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) Documentation
 
