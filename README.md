@@ -19,7 +19,9 @@ _Bitcoin Lightning Network & Nostr_
 ## Main current Projects
 
 - [@BitcoinVoucherBot](https://t.me/BitcoinVoucherBot) Bitcoin services Marketplace
-- [@BreezerBot](https://t.me/BreezerBot) [Breez SDK implementation](https://github.com/massmux/BreezerBot)
 - [@SatsMobiBot](https://t.me/SatsMobiBot) and NFC Lightning Cards and Rings
+- [@SatsContactBot](https://t.me/SatsContactBot) get CashU Nuts by receiving Lightning Sats to a dedicated Lightning address
 - Contributor to [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) Documentation
+- [@BreezerBot](https://t.me/BreezerBot) [Breez SDK implementation](https://github.com/massmux/BreezerBot)
+
 
