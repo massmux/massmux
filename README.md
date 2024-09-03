@@ -5,7 +5,7 @@ _Bitcoin Lightning Network & Nostr_
 
 - 💬 Telegram: [@massmux](https://t.me/massmux)
 - 🌏 Twitter: [https://twitter.com/massmux](https://twitter.com/massmux)
-- 🌏 Nostr: [npub1sej07d37lnfk592wlh9uv2dy68jv2y0ez98p6dw7w0llx89hswesvs5fqm](https://nosta.me/npub1sej07d37lnfk592wlh9uv2dy68jv2y0ez98p6dw7w0llx89hswesvs5fqm)
+- 🌏 Nostr: [npub1sej07d37lnfk592wlh9uv2dy68jv2y0ez98p6dw7w0llx89hswesvs5fqm](https://nosta.me/npub1sej07d37lnfk592wlh9uv2dy68jv2y0ez98p6dw7w0llx89hswesvs5fqm) or [https://primal.net/massmux][https://primal.net/massmux)
 - ✒️ Blog: [https://massmux.com](https://massmux.com)
 - ✒️ Substack Newsletter: [https://massmux.org](https://massmux.org)
 - 📺 Twitch: [https://www.twitch.tv/massimomusumeci](https://www.twitch.tv/massimomusumeci)
