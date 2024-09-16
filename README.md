@@ -1,4 +1,4 @@
-# [Massimo Musumeci](https://github.com/massmux/massmux)
+# [Max Musumeci](https://github.com/massmux/massmux) (massmux)
 
 _Bitcoin Lightning Network & Nostr_
 
