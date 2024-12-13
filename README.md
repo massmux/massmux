@@ -2,6 +2,7 @@
 
 _Bitcoin Lightning Network & Nostr_
 
+I am an Anti-Statist, Freedom Maximalist, Educator and Dev/Researcher 
 
 - 💬 Telegram: [@massmux](https://t.me/massmux)
 - 🌏 Twitter: [https://twitter.com/massmux](https://twitter.com/massmux)
@@ -14,6 +15,7 @@ _Bitcoin Lightning Network & Nostr_
 - 🌏 Donation page: [https://www.massmux.com/donations/](https://www.massmux.com/donations/)
 - 🌏 Linkedin: [https://www.linkedin.com/in/massmux/](https://www.linkedin.com/in/massmux/)
 - 🌏 Bookme: [https://cal.com/massmux](https://cal.com/massmux)
+- ⚡️ Lightning address: massmux@sats.mobi
 
 
 ## Main current Projects
@@ -22,6 +24,6 @@ _Bitcoin Lightning Network & Nostr_
 - [@SatsMobiBot](https://t.me/SatsMobiBot) and NFC Lightning Cards and Rings
 - [@SatsContactBot](https://t.me/SatsContactBot) get CashU Nuts by receiving Lightning Sats to a dedicated Lightning address
 - Contributor to [LightningTipBot](https://github.com/LightningTipBot/LightningTipBot) Documentation
-- [@BreezerBot](https://t.me/BreezerBot) [Breez SDK implementation](https://github.com/massmux/BreezerBot)
+- [LightStack](https://github.com/massmux/lightstack) Lightning Stack
 
 
